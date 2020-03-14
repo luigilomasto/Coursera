@@ -1,2 +1,2 @@
-# Machine_Learning_by_Stanford_University_Coursera
-Repository for Machine Learning course on Coursera
+# Coursera
+Repository for Coursera courses
